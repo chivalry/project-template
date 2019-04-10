@@ -1,0 +1,9 @@
+administration: Non-coding tasks
+bug: Something isn't working
+development: Code needs to be written
+duplicate: This issue already exists elsewhere
+enhancement: New feature or request
+question: Clarification is needed
+research: Information needs to be gathered
+testing: Features need to be tested
+wontfix: This will not be worked on
